@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/asrafhossain/static/css/main.50cdc99b.chunk.css",
+    "main.css": "/asrafhossain/static/css/main.f983d084.chunk.css",
     "main.js": "/asrafhossain/static/js/main.a7f06e69.chunk.js",
     "main.js.map": "/asrafhossain/static/js/main.a7f06e69.chunk.js.map",
     "runtime-main.js": "/asrafhossain/static/js/runtime-main.b1cdbff9.js",
@@ -9,17 +9,17 @@
     "static/js/2.4554851e.chunk.js": "/asrafhossain/static/js/2.4554851e.chunk.js",
     "static/js/2.4554851e.chunk.js.map": "/asrafhossain/static/js/2.4554851e.chunk.js.map",
     "index.html": "/asrafhossain/index.html",
-    "precache-manifest.abf509fd18d049a6bd512666721535b4.js": "/asrafhossain/precache-manifest.abf509fd18d049a6bd512666721535b4.js",
+    "precache-manifest.f1a90d139e5a2151f01cc4cc9fc495c2.js": "/asrafhossain/precache-manifest.f1a90d139e5a2151f01cc4cc9fc495c2.js",
     "service-worker.js": "/asrafhossain/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/asrafhossain/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.50cdc99b.chunk.css.map": "/asrafhossain/static/css/main.50cdc99b.chunk.css.map",
+    "static/css/main.f983d084.chunk.css.map": "/asrafhossain/static/css/main.f983d084.chunk.css.map",
     "static/js/2.4554851e.chunk.js.LICENSE.txt": "/asrafhossain/static/js/2.4554851e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b1cdbff9.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.4554851e.chunk.js",
-    "static/css/main.50cdc99b.chunk.css",
+    "static/css/main.f983d084.chunk.css",
     "static/js/main.a7f06e69.chunk.js"
   ]
 }
