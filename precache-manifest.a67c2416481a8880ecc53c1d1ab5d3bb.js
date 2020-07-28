@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b4a07405aa2835847195642c6de536b9",
+    "revision": "d9fd03018a3abe7d4703d8147c8201aa",
     "url": "/asrafhossain/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/asrafhossain/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "3cb1f73ddde9868eda65",
+    "revision": "da216abc25a7dbd5730c",
     "url": "/asrafhossain/static/css/main.f983d084.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/asrafhossain/static/js/2.4554851e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3cb1f73ddde9868eda65",
-    "url": "/asrafhossain/static/js/main.4468e070.chunk.js"
+    "revision": "da216abc25a7dbd5730c",
+    "url": "/asrafhossain/static/js/main.d3eb4933.chunk.js"
   },
   {
     "revision": "ac8623cd7fb3432b71cd",

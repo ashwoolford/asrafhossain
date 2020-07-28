@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/asrafhossain/static/css/main.f983d084.chunk.css",
-    "main.js": "/asrafhossain/static/js/main.4468e070.chunk.js",
-    "main.js.map": "/asrafhossain/static/js/main.4468e070.chunk.js.map",
+    "main.js": "/asrafhossain/static/js/main.d3eb4933.chunk.js",
+    "main.js.map": "/asrafhossain/static/js/main.d3eb4933.chunk.js.map",
     "runtime-main.js": "/asrafhossain/static/js/runtime-main.b1cdbff9.js",
     "runtime-main.js.map": "/asrafhossain/static/js/runtime-main.b1cdbff9.js.map",
     "static/css/2.af3c1da9.chunk.css": "/asrafhossain/static/css/2.af3c1da9.chunk.css",
     "static/js/2.4554851e.chunk.js": "/asrafhossain/static/js/2.4554851e.chunk.js",
     "static/js/2.4554851e.chunk.js.map": "/asrafhossain/static/js/2.4554851e.chunk.js.map",
     "index.html": "/asrafhossain/index.html",
-    "precache-manifest.47668318eb828dd2cddbe7fe74922a37.js": "/asrafhossain/precache-manifest.47668318eb828dd2cddbe7fe74922a37.js",
+    "precache-manifest.a67c2416481a8880ecc53c1d1ab5d3bb.js": "/asrafhossain/precache-manifest.a67c2416481a8880ecc53c1d1ab5d3bb.js",
     "service-worker.js": "/asrafhossain/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/asrafhossain/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.f983d084.chunk.css.map": "/asrafhossain/static/css/main.f983d084.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.4554851e.chunk.js",
     "static/css/main.f983d084.chunk.css",
-    "static/js/main.4468e070.chunk.js"
+    "static/js/main.d3eb4933.chunk.js"
   ]
 }
